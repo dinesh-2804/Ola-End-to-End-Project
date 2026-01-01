@@ -84,16 +84,16 @@
 ![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/1st%20slide.jpeg?raw=true)
 
 ### Vehicle Type Analysis
-![Vehicle Type Dashboard]('/Users/simakurthidineshhemanth/Documents/PowerBi Project/2nd Slide.jpeg')
+![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/2nd%20Slide.jpeg?raw=true)
 
 ### Revenue Analysis
-![Revenue Dashboard]('/Users/simakurthidineshhemanth/Documents/PowerBi Project/3rd Slide.jpeg')
+![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/2nd%20Slide.jpeg?raw=true)
 
 ### Cancellation Analysis
-![Cancellation Dashboard]('/Users/simakurthidineshhemanth/Documents/PowerBi Project/4th Slide.jpeg')
+![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/2nd%20Slide.jpeg?raw=true)
 
 ### Ratings Analysis
-![Ratings Dashboard]('/Users/simakurthidineshhemanth/Documents/PowerBi Project/5th Slide.jpeg')
+![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/2nd%20Slide.jpeg?raw=true)
 
  ##  📌 Key Insights
   - Majority of bookings are successful, but cancellations are significant
