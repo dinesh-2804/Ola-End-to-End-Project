@@ -93,7 +93,7 @@
 ![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/4th%20Slide.jpeg?raw=true)
 
 ### Ratings Analysis
-![Image Alt]((https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/5th%20Slide.jpeg?raw=true))
+![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/5th%20Slide.jpeg?raw=true)
 
 
  ##  📌 Key Insights
