@@ -81,7 +81,7 @@
   ## 📊 Power BI Dashboard Preview
 
 ### Overall Performance
-![Overall Dashboard]('/Users/simakurthidineshhemanth/Documents/PowerBi Project/1st slide.jpeg')
+![Overall Dashboard][('/Users/simakurthidineshhemanth/Documents/PowerBi Project/1st slide.jpeg')](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/1st%20slide.jpeg?raw=true)
 
 ### Vehicle Type Analysis
 ![Vehicle Type Dashboard]('/Users/simakurthidineshhemanth/Documents/PowerBi Project/2nd Slide.jpeg')
