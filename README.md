@@ -101,3 +101,7 @@
   - Auto rides typically cover shorter distances
   - Ratings are consistently ~4.0 across vehicle types
   - Driver cancellations are mainly due to personal or vehicle issues
+
+
+<img src="'/Users/simakurthidineshhemanth/Documents/PowerBi Project/1st slide.jpeg'" width="900">
+
