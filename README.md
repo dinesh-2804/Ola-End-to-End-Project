@@ -87,7 +87,7 @@
 ![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/2nd%20Slide.jpeg?raw=true)
 
 ### Revenue Analysis
-![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/2nd%20Slide.jpeg?raw=true)
+![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/3rd%20Slide.jpeg?raw=true)
 
 ### Cancellation Analysis
 ![Image Alt](https://github.com/dinesh-2804/Ola-End-to-End-Project/blob/main/2nd%20Slide.jpeg?raw=true)
