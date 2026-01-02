@@ -1,6 +1,6 @@
 ## 🚖 OLA Bookings Data Analysis
 
-- Excel | MySQL | SQL | Power BI
+- Excel | MySQL | Power BI
 - 
 # 📌 Project Overview
   - This project analyzes OLA bookings data (July 2024) to derive insights related to booking performance, revenue, vehicle usage, cancellations, and ratings.
